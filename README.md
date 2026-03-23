@@ -1,2 +1,2 @@
 # astronomy
-revision y aprendizaje de imagenes con lete gravitacional
+revision y aprendizaje de imagenes con lente gravitacional
